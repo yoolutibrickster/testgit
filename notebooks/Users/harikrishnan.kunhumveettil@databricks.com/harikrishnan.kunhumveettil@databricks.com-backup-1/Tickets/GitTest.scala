@@ -1,5 +1,2 @@
 // Databricks notebook source
-1+1
-
-// COMMAND ----------
-dljkfnksdjfk
+1+5
